@@ -98,5 +98,6 @@ public class Son extends Scene{
      */
     public void playReload(){
         this.sonReload.play();
+        System.out.println("coucou");
     }
 }
